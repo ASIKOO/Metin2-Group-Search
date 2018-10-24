@@ -1,0 +1,65 @@
+"Yeterli %s yok.";
+"Yeterli %s yok.";
+
+"Arama yapan oyuncularda yeterli item olmadigindan arama iptal edildi.";
+"Yeterli item olmadýðýndan arama iptal edildi.";
+
+"grup varken yapamazsýnýz.";
+"Grup varken kayýt yaptýramazsýnýz.";
+
+"group olu";
+"Ölü iken arama yapamazsýnýz.";
+
+"group zindan";
+"Zindanda iken arama yapamazsýnýz.";
+
+"group penceree";
+"Maðaza, ticaret veya kombinasyon açýkken arama yapamazsýnýz.";
+
+"group searchh %s %s %d";
+"%s, [%s] için gurup aramasý baþlattý. [%d] kiþi kaldý!";
+
+"group searchh2 %s %d";
+"[%s] için gurup aramasýnda [%d] kiþilik bir gurup kuruldu!";
+
+"group searchh61 %s %s %d %d";
+"%s, [%s] için gurup aramasý baþlattý. [%d] þaman ve [%d] ninja kaldý!";
+
+"grup map";
+"Bu haritada arama yapamazsýnýz.";
+
+"grup bekle %d";
+"Yeniden arama yapabilmek için %d saniye beklemelisiniz.";
+
+"Yeterli %d level.";
+"Bu zindan için en az %d level olmalýsýnýz.";
+
+"group girisleri kapatildi";
+"<Gurup Aramasý> Giriþler kapatýldý.";
+
+"group girisleri acildi";
+"<Gurup Aramasý> Giriþler açýldý.";
+
+"grouup 0";
+"Ejderha Tapýnaðý";
+
+"grouup 1";
+"Kýrmýzý Ejderha Kalesi";
+
+"grouup 2";
+"Nemere Gözlemevi";
+
+"grouup 3";
+"Efsunlu Orman";
+
+"grouup 4";
+"Ochao Tapýnaðý";
+
+"grouup 5";
+"Meley'in Ýni";
+
+"<Gurup Aramas1";
+"<Gurup Aramasý> Duyurular aktif edildi.";
+
+"<Gurup Aramas2";
+"<Gurup Aramasý> Duyurular kapatildi.";

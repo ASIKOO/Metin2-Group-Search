@@ -1,0 +1,30 @@
+"grouup 0";
+"Dragon's Temple";
+
+"grouup 1";
+"Red Dragon Fortress";
+
+"grouup 2";
+"Nemere's Watchtower";
+
+"grouup 3";
+"Enchanted Forest";
+
+"grouup 4";
+"Temple of the Ochao";
+
+"grouup 5";
+"Meley's Lair";
+
+"group searchh %s %s %d";
+"%s, started a group search for [%s]. [%d] player is waiting!";
+
+"group searchh2 %s %d";
+"[%d] player, created a group for [%s]!";
+
+"group searchh61 %s %s %d %d";
+"%s, started a group search for [%s]. [%d] shaman and [%d] assassin is waiting!";
+
+LAST ONE:
+Go GroupMatchManager.h and Enable:
+#define CONVERT_TO_ENGLISH

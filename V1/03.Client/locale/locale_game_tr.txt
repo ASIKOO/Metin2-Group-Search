@@ -1,0 +1,13 @@
+PARTY_MATCH_TEXT_1	Ayarlarý deðiþtiremezsiniz.
+PARTY_MATCH_TEXT_2	Grubunu þu zindana kaydettin: [
+PARTY_MATCH_TEXT_3	Zaten arama yapýlýyor.
+PARTY_MATCH_TEXT_4	Seviye
+PARTY_MATCH_TEXT_5	Seçim yapmanýz lazým.
+PARTY_MATCH_TEXT_6	Seviyeniz yeterli deðil.
+SEC	Seç
+MAP_N_FLAME_DRAGON	Meley'in Ýni
+MAP_N_FLAME_DUNGEON_01	Kýrmýzý Ejderha Kalesi	
+MAP_N_SNOW_DUNGEON_01	Nemere Gözlemevi
+MAP_DAWNMIST_DUNGEON_01	Efsunlu Orman
+MAP_SKIPIA_DUNGEON_BOSS	Ejderha Tapýnaðý
+MAP_MT_TH_DUNGEON_01	Ochao Tapýnaðý

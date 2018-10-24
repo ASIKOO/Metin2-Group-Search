@@ -1,0 +1,13 @@
+PARTY_MATCH_TEXT_1	You can't change the settings while searching.
+PARTY_MATCH_TEXT_2	Grubunu þu zindana kaydettin: [
+PARTY_MATCH_TEXT_3	Already, a search started.
+PARTY_MATCH_TEXT_4	Level
+PARTY_MATCH_TEXT_5	You must select a dungeon.
+PARTY_MATCH_TEXT_6	You don't have enough level.
+SEC	Select
+MAP_N_FLAME_DRAGON	Meley's Lair
+MAP_N_FLAME_DUNGEON_01	Red Dragon Fortress
+MAP_N_SNOW_DUNGEON_01	Nemere's Watchtower
+MAP_DAWNMIST_DUNGEON_01	Enchanted Forest
+MAP_SKIPIA_DUNGEON_BOSS	Dragon's Temple
+MAP_MT_TH_DUNGEON_01	Temple of the Ochao
