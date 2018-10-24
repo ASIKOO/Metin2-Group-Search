@@ -5,5 +5,3 @@
 | Last     | 24.10.2018        |
 
 **Created by blackdragonx61**
-
-**Date:07.08.2017**
