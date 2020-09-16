@@ -1,0 +1,140 @@
+PARTY_MATCH_CANCEL	[%s] Ýçin grup aramasý iptal edildi.
+PARTY_MATCH_FAIL_FULL_MEMBER	Grubun baþka üye kabul edemez.
+PARTY_MATCH_FAIL_IMPOSSIBLE_MAP	Bu zindana kaydolamazsýn.
+PARTY_MATCH_FAIL_LEVEL	Seviyen çok düþük.
+PARTY_MATCH_FAIL_MEMBER_NOT_CONDITION	Üye %s gerekli þartlarý yerine getirmiyor.
+PARTY_MATCH_FAIL_NONE_MAP_INDEX	Lütfen önce bir zindan seç.
+PARTY_MATCH_FAIL_NOT_LEADER	Yalnýzca grup lideri kayýt yaptýrabilir.
+PARTY_MATCH_FAIL_NO_ITEM	Yeterli %s yok.
+PARTY_MATCH_SEARCHING	Ara
+PARTY_MATCH_START	Grubunu þu zindana kaydettin: [%s]!
+MAP_A1	Yongan Bölgesi
+MAP_A2	Seungryong Vadisi
+MAP_A2_1	
+MAP_A3	Yayang Bölgesi
+MAP_AG	Jungrang
+MAP_B1	Joan Bölgesi
+MAP_B2	Imji Vadisi
+MAP_B3	Bokjung Bölgesi
+MAP_BATTLE_FIELD	Savaþ Bölgesi
+MAP_BAY	Nefrit Körfezi
+MAP_BAYBLACKSAND	Nefrit Körfezi
+MAP_BG	Waryong
+MAP_BOSS_AWAKEN_DAWNMIST	TS: Efsunlu Orman
+MAP_BOSS_AWAKEN_FLAME	TS: Kýrmýzý Ejderha Kalesi
+MAP_BOSS_AWAKEN_SKIPIA	TS: Sürgün Maðarasý
+MAP_BOSS_AWAKEN_SNOW	TS: Nemere Gözlemevi
+MAP_BOSS_CRACK_DAWNMIST	ZÇ: Efsunlu Orman
+MAP_BOSS_CRACK_FLAME	ZÇ: Kýrmýzý Ejderha Kalesi
+MAP_BOSS_CRACK_SKIPIA	ZÇ: Sürgün Maðarasý
+MAP_BOSS_CRACK_SNOW	ZÇ: Nemere Gözlemevi
+MAP_BOSS_LABYRINTH	Yanýlsama Platosu
+MAP_C1	Pyungmoo Bölgesi
+MAP_C2	Bangsan Vadisi
+MAP_C3	Bakra Bölgesi
+MAP_CAPE	Ejderha Ateþi Burnu
+MAP_CAPEDRAGONHEAD	Ejderha Ateþi Burnu
+MAP_CG	Imha
+MAP_CZ_DUNGEON	Zodyak Tapýnaðý
+MAP_DAWN	Gautama Uçurumu
+MAP_DAWNMISTWOOD	Gautama Uçurumu
+MAP_DAWNMIST_DUNGEON_01	Efsunlu Orman
+MAP_DEFENSE_WAVE	Gemi savunmasý
+MAP_DEFENSE_WAVE_PORT	Liman
+MAP_DESERT	Yongbi Çölü
+MAP_DEVILCATACOMB	Þeytan Katakombu
+MAP_DEVILTOWER1	Þeytan Kulesi
+MAP_DUEL	Eðitim Dövüþü Arenasý
+MAP_E	Koloni
+MAP_ELEMENTAL_DUNGEON	Elementer dünyasý
+MAP_EMPIREWAR01	Kale Savaþý
+MAP_EMPIREWAR02	Kale Savaþý
+MAP_EMPIREWAR03	Kale Savaþý
+MAP_FLAME	Doyyumhwan
+MAP_GUILD_01	Jungrang
+MAP_GUILD_02	Waryong
+MAP_GUILD_03	Imha
+MAP_GUILD_PVE	Ejderha kralýnýn sarayý
+MAP_HOLYPLACE_DESERT	Ýmparatorluk Savaþý - Çöl Diyarý
+MAP_HOLYPLACE_FLAME	Ýmparatorluk Savaþý - Ateþ Diyarý
+MAP_HOLYPLACE_ICE	Ýmparatorluk Savaþý - Buz Daðý
+MAP_MILGYO	Hwang Tapýnaðý
+MAP_MILGYO_A	
+MAP_MINIBOSS_01	Mavi zindan – Sv 40-80
+MAP_MINIBOSS_02	Kýrmýzý zindan – Sv 81 itibarýyla
+MAP_MISTS_OF_ISLAND	Sis Adalarý
+MAP_MONKEY_DUNGEON	Hasun Dong
+MAP_MONKEY_DUNGEON2	Jungsun Dong
+MAP_MONKEY_DUNGEON3	Sangsun Dong
+MAP_MONKEY_DUNGEON_11	Hasun Dong
+MAP_MONKEY_DUNGEON_12	Hasun Dong
+MAP_MONKEY_DUNGEON_13	Hasun Dong
+MAP_MT_THUNDER	Yýldýrým Daðlarý
+MAP_MT_TH_DUNGEON_01	Ochao Tapýnaðý
+MAP_NUSLUCK	Devler Diyarý
+MAP_NUSLUCK01	Devler Diyarý
+MAP_N_DESERT_01	Yongbi Çölü
+MAP_N_DESERT_02	
+MAP_N_FLAME_01	Ateþ Diyarý
+MAP_N_FLAME_02	
+MAP_N_FLAME_DRAGON	Meley'in Ýni
+MAP_N_FLAME_DUNGEON_01	Kýrmýzý Ejderha Kalesi
+MAP_N_SNOWM_01	Sohan Daðý
+MAP_N_SNOWM_02	
+MAP_N_SNOW_DUNGEON_01	Nemere Gözlemevi
+MAP_N_THREEWAY	Seungryong Vadisi
+MAP_OXEVENT	OX-yarýþmasý
+MAP_PATHWAY_DESERT_01	Ýmparatorluk Savaþý - Çöl Diyarý
+MAP_PATHWAY_DESERT_02	Ýmparatorluk Savaþý - Çöl Diyarý
+MAP_PATHWAY_DESERT_03	Ýmparatorluk Savaþý - Çöl Diyarý
+MAP_PATHWAY_FLAME_01	Ýmparatorluk Savaþý - Ateþ Diyarý
+MAP_PATHWAY_FLAME_02	Ýmparatorluk Savaþý - Ateþ Diyarý
+MAP_PATHWAY_FLAME_03	Ýmparatorluk Savaþý - Ateþ Diyarý
+MAP_PATHWAY_ICE_01	Ýmparatorluk Savaþý - Buz Daðý
+MAP_PATHWAY_ICE_02	Oyun Parký
+MAP_PATHWAY_ICE_03	Ýmparatorluk Savaþý - Buz Daðý
+MAP_SKELTOWER	Gumsan Kulesi
+MAP_SKIPIA_DUNGEON_01	Sürgün Maðarasý
+MAP_SKIPIA_DUNGEON_011	
+MAP_SKIPIA_DUNGEON_012	
+MAP_SKIPIA_DUNGEON_013	
+MAP_SKIPIA_DUNGEON_02	Sürgün Maðarasý 2
+MAP_SKIPIA_DUNGEON_021	
+MAP_SKIPIA_DUNGEON_022	
+MAP_SKIPIA_DUNGEON_023	
+MAP_SKIPIA_DUNGEON_BOSS	Ejderha Tapýnaðý
+MAP_SKIPIA_DUNGEON_BOSS_1	Örümcek Zindaný 1
+MAP_SKIPIA_DUNGEON_BOSS_2	Örümcek Zindaný 2
+MAP_SKIPIA_DUNGEON_BOSS_3	Örümcek Zindaný 3
+MAP_SNOW	Sohan Daðý
+MAP_SPIDER	Kuahlo Dong
+MAP_SPIDERDUNGEON	Örümcek Zindaný 1
+MAP_SPIDERDUNGEON_02	Örümcek Zindaný 2
+MAP_SPIDERDUNGEON_02_1	Örümcek Zindaný 2
+MAP_SPIDERDUNGEON_03	Örümcek Zindaný 3
+MAP_SUNGZI	Ýmparatorluk Savaþý
+MAP_SUNGZI_DESERT_01	Ýmparatorluk Savaþý - Çöl Diyarý
+MAP_SUNGZI_DESERT_HILL_01	Ýmparatorluk Savaþý - Çöl Diyarý
+MAP_SUNGZI_DESERT_HILL_02	Ýmparatorluk Savaþý - Çöl Diyarý
+MAP_SUNGZI_DESERT_HILL_03	Ýmparatorluk Savaþý - Çöl Diyarý
+MAP_SUNGZI_FLAME_HILL_01	Ýmparatorluk Savaþý - Ateþ Diyarý
+MAP_SUNGZI_FLAME_HILL_02	Ýmparatorluk Savaþý - Ateþ Diyarý
+MAP_SUNGZI_FLAME_HILL_03	Ýmparatorluk Savaþý - Ateþ Diyarý
+MAP_SUNGZI_SNOW	Ýmparatorluk Savaþý - Buz Daðý
+MAP_SUNGZI_SNOW_PASS01	Ýmparatorluk Savaþý - Buz Daðý
+MAP_SUNGZI_SNOW_PASS02	Ýmparatorluk Savaþý - Buz Daðý
+MAP_SUNGZI_SNOW_PASS03	Ýmparatorluk Savaþý - Buz Daðý
+MAP_T1	Lonca Savaþý Bölgesi
+MAP_T2	Lonca Savaþý Bölgesi
+MAP_T3	Lonca Savaþý Bölgesi
+MAP_T4	Lonca Savaþý Bölgesi
+MAP_TEMPLE	Hwang Tapýnaðý
+MAP_THUNDER	Yýldýrým Daðlarý
+MAP_TREE	Lungsam
+MAP_TRENT	Hayalet Ormaný
+MAP_TRENT02	Kýrmýzý Orman
+MAP_TRENT02_A	Kýzýl Orman
+MAP_TRENT_A	
+MAP_WEDDING_01	Düðün Köyü
+MAP_WL	Yýlan Vadisi
+MAP_WL_01	Yýlan Vadisi
