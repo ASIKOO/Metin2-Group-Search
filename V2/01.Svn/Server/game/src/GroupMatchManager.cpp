@@ -43,8 +43,8 @@ static auto& Coordinates() {
 	};
 
 	if (Map.empty()) {
-		AddObject(351, 1808, 12207, 100, 2, { {71095, 1}, {71130, 1} });
-		AddObject(352, 7766, 6719, 100, 2, {});
+		//AddObject(351, X, Y, LEVEL, COUNT, { {VNUM1, COUNT1}, {VNUM2, COUNT2}, {VNUM3, COUNT3} });
+		//AddObject(352, 1234, 1234, 100, 2, {});
 	}
 
 	return Map;
