@@ -58,8 +58,8 @@ bool CPythonNetworkStream::LoadPartyMatchInfo(const char* FileName)
 						}
 					}
 				}
+				pkTextFileLoader->SetParentNode();
 			}
-			pkTextFileLoader->SetParentNode();
 		}
 
 		p->items = std::move(items);
