@@ -15,7 +15,7 @@
 #include "desc.h"
 #include "party.h"
 
-CGroupMatchManager::CGroupMatchManager() 
+CGroupMatchManager::CGroupMatchManager()
 {
 }
 
@@ -28,17 +28,15 @@ static auto& Coordinates() {
 	struct MapObject {
 		int x, y, level, player_count;
 		std::vector<std::pair<DWORD, BYTE>> items;
+		MapObject(int m_x, int m_y, int m_level, int pcount, std::vector<std::pair<DWORD, BYTE>> m_items)
+			: x(m_x), y(m_y), level(m_level), player_count(pcount), items(std::move(m_items))
+		{}
 	};
 
 	static std::map<int, std::unique_ptr<MapObject>> Map;
 
 	auto AddObject = [&](int index, int x, int y, int level, int pcount, std::vector<std::pair<DWORD, BYTE>> items) {
-		auto p = std::make_unique<MapObject>();
-		p->x = x;
-		p->y = y;
-		p->level = level;
-		p->player_count = pcount;
-		p->items = std::move(items);
+		auto p = std::make_unique<MapObject>(x, y, level, pcount, items);
 		Map.emplace(index, std::move(p));
 	};
 
